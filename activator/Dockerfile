@@ -2,7 +2,7 @@
 
 FROM java:8
 
-MAINTAINER duxx0r <@duxx0r>
+MAINTAINER @duxx0r
 
 ENV DEBIAN_FRONTEND noninteractive
 
