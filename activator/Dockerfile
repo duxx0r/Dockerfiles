@@ -1,8 +1,8 @@
 # Lightbend Activator
 
-FROM openjdk:8u121-jdk
+FROM java:8
 
-MAINTAINER Ivar Abrahamsen <@flurdy>
+MAINTAINER duxx0r <@duxx0r>
 
 ENV DEBIAN_FRONTEND noninteractive
 
