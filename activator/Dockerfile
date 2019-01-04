@@ -32,7 +32,7 @@ sbt sbtVersion && \
 rm -rf target/
 
 # SBT warmup
-ADD . /var/www
-WORKDIR /var/www/sbt-warmup
-RUN sbt run
-RUN rm -rf ./*
+#ADD . /var/www
+#WORKDIR /var/www/sbt-warmup
+#RUN sbt run
+#RUN rm -rf ./*
